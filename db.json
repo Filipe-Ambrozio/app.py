@@ -1,0 +1,45 @@
+{
+  "usuarios": {
+    "12345678911": {
+      "nome": "Tiago Alencar",
+      "cpf": "12345678911",
+      "rua": "13 De Maio",
+      "bairro": "Centro",
+      "nascimento": "01/01/2017",
+      "pai": "Jo\u00e3o Silva",
+      "mae": "Maria Silva",
+      "telefone": "81 999999988",
+      "email": "SilvaNeto@gmail.com",
+      "data_cadastro": "14/05/2025 23:35:58",
+      "status_matricula": "Cancelada",
+      "data_cancelamento": "14/05/2025 23:36:54"
+    },
+    "12312312333": {
+      "nome": "Aline Dias",
+      "cpf": "12312312333",
+      "rua": "rau das Ninfas",
+      "bairro": "sobral",
+      "nascimento": "01/02/2018",
+      "pai": "Ander Dias",
+      "mae": "Ruther Dias",
+      "telefone": "813333333",
+      "email": "Diasflores@hotmail.com",
+      "data_cadastro": "14/05/2025 23:39:28",
+      "status_matricula": "Cancelada",
+      "data_cancelamento": "14/05/2025 23:47:04"
+    },
+    "77777777711": {
+      "nome": "Arthur de Alencar",
+      "cpf": "77777777711",
+      "rua": "Do Sol",
+      "bairro": "Torre 2",
+      "nascimento": "10/02/2020",
+      "pai": "Ra\u00fal Silveira",
+      "mae": "Gabriela Silveira",
+      "telefone": "81444444444",
+      "email": "Silveira@gmail.com",
+      "data_cadastro": "15/05/2025 00:03:54",
+      "status_matricula": "Ativa"
+    }
+  }
+}
